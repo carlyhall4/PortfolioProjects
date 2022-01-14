@@ -77,9 +77,3 @@ GROUP BY outcome_weekday
 ORDER BY Percentage_adopted DESC 
 --Cats are most likely to be adopted on Saturdays or Sundays
 
-
-
-
-
-
-
