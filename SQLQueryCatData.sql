@@ -1,5 +1,5 @@
 --Dataset Source: https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-outcomes-and?select=aac_shelter_cat_outcome_eng.csv
---This Dataset contains information about cats from the Austin Animal Shelter in the US and their outcomes
+--This Dataset contains information about cats from the Austin Animal Shelter in the US and their adoption outcomes
 --The Austin Animal Shelter is the largest no-kill shelter in the US and provides daily data about their animals
 --My goal is to investigate the most common types of cats that get adopted
 
