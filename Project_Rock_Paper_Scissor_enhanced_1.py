@@ -217,6 +217,6 @@ def PlayGame():
     This is the "main" function
     In this function, human and computer play the game until the human/user wants to quit
     '''
-# %% do not modify anything below
+
 if __name__ == '__main__':
     PlayGame()
