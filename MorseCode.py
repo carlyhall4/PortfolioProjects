@@ -202,7 +202,7 @@ def Message_Decoder(Message_in_Morse_Code, Character_Decoder=None):
     Message += Message_list[len(Message_list)-1]
 
     return Message
-# %% you do not need to modify this function
+
 def Make_Sound(Message_in_Morse_Code):
     '''
     a bonus function to hear the sound of Morse Code
@@ -232,7 +232,7 @@ def Make_Sound(Message_in_Morse_Code):
             time.sleep(0.5*7*duration/1000)
         else: # unknown character '#'
             winsound.Beep(2*frequence, 3*duration)
-# %% you do not need to modify this function
+
 def Send_Message(play_sound = False):
     '''
     a bonus function to send an 'encrypted' message (Morse Code)
